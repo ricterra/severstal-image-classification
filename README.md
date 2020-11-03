@@ -5,30 +5,11 @@ Inside this document you will find a capstone project for the final project of M
 
 ## Overview
 
-![alt text](https://github.com/ricterra/severstal-image-classificatio/photos/schematic.jpg?raw=true)
+![alt text](https://github.com/ricterra/severstal-image-classification/blob/main/photos/schematic.png?raw=true)
 
 ## Architecture
 
-Root
-|- 1-EDA.ipynb
-
-|- 2-MaskVisualization.ipynb
-
-|- 3-Classification.ipynb
-
-|- train.csv
-
-|- df_master.csv
-
-|- sample_submission.csv
-
-|- train_images
-
-|- models
-
-    |- binary_class
-    
-    |- multiclass_caategorical
+https://github.com/ricterra/severstal-image-classification/blob/main/photos/folder.png
     
 ## Files
 1-EDA.ipynb : This is the first notebook of this study, it is dedicated to EDA (exploratory data analysis) of Severstal data, including data cleaning.
