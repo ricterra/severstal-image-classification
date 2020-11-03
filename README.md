@@ -5,6 +5,8 @@ Inside this document you will find a capstone project for the final project of M
 
 ## Overview
 
+![alt text](https://github.com/ricterra/severstal-image-classificatio/photos/schematic.jpg?raw=true)
+
 ## Architecture
 
 Root
