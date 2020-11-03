@@ -20,14 +20,27 @@ The classification system proposed in this project consists of 2 step classifica
 </p>
     
 ## Files
-1-EDA.ipynb : This is the first notebook of this study, it is dedicated to EDA (exploratory data analysis) of Severstal data, including data cleaning.
+**1-EDA.ipynb** : This is the first notebook of this study, it is dedicated to EDA (exploratory data analysis) of Severstal data, including data cleaning.
 
-2-MaskVisualization.ipynb : This is the second notebook of this study, it is dedicated to build and visualize mask based on encoded pixels of Severstal data.
+**2-MaskVisualization.ipynb** : This is the second notebook of this study, it is dedicated to build and visualize mask based on encoded pixels of Severstal data.
 
-3- Classification.ipynb : This is the third notebook of this study, it is dedicated to classification system and metrics analytics.
+**3- Classification.ipynb** : This is the third notebook of this study, it is dedicated to classification system and metrics analytics.
 
-train.csv : original .csv file listing image names, classes and pixels for defects.
+**train.csv** : original .csv file listing image names, classes and pixels for defects.
 
-sample_submission.csv : original .csv listing testing images
+**sample_submission.csv** : original .csv listing testing images
 
-df_master.csv : master list created in EDA notebook for use in notebook [2] and [3].
+**df_master.csv** : master list created in EDA notebook for use in notebook [2] and [3].
+
+## References
+[1] Severstal: Steel Defect Detection. <https://www.kaggle.com/c/severstal-steel-defect-detection>
+
+[2] Understanding Semantic Segmentation with UNET. <https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47>
+
+[3] Generating masks from Encoded Pixels — Semantic Segmentation. <https://medium.com/analytics-vidhya/generating-masks-from-encoded-pixels-semantic-segmentation-18635e834ad0>
+
+[4] Keras Optimizers. <https://keras.io/api/optimizers/adam/>
+
+[5] Effect of batch size on training dynamics. <https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e>
+
+
