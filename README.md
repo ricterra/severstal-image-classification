@@ -39,8 +39,15 @@ The classification system proposed in this project consists of 2 step classifica
 
 [3] Generating masks from Encoded Pixels — Semantic Segmentation. <https://medium.com/analytics-vidhya/generating-masks-from-encoded-pixels-semantic-segmentation-18635e834ad0>
 
-[4] Keras Optimizers. <https://keras.io/api/optimizers/adam/>
+[4] A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way. <https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53>
 
-[5] Effect of batch size on training dynamics. <https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e>
+[5] Benchmark 1. <https://kaggle.com/rishabhiitbhu/unet-starter-kernel-pytorch-lb-0-884>
+
+[6] Benchmark 2. <https://www.kaggle.com/cdeotte/keras-unet-with-eda>
+
+[7] Keras Optimizers. <https://keras.io/api/optimizers/adam/>
+
+[8] Effect of batch size on training dynamics. <https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e>
+
 
 
