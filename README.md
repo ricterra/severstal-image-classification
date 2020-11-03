@@ -11,12 +11,12 @@ The classification system proposed in this project consists of 2 step classifica
   <img src="https://github.com/ricterra/severstal-image-classification/blob/main/photos/schematic.png" width="700" title="Classification Scheme">
 </p>
 <p align="center">
-  <img src="https://github.com/ricterra/severstal-image-classification/blob/main/photos/binary_mask.png" width="500" title="Classification Scheme">
+  <img src="https://github.com/ricterra/severstal-image-classification/blob/main/photos/binary_mask.png" width="500" title="Binary Mask">
 </p>
 
 ## Architecture
-<p align="center">
-  <img src="https://github.com/ricterra/severstal-image-classification/blob/main/photos/folder.png" width="100" title="Classification Scheme">
+<p align="left">
+  <img src="https://github.com/ricterra/severstal-image-classification/blob/main/photos/folder.png" width="200" title="Architecture">
 </p>
     
 ## Files
