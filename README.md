@@ -3,17 +3,7 @@
 ## Summary
 Inside this document you will find a capstone project for the final project of Machine Learning Nanodegree. It is included below a brief introduction to the problem statement, objectives, methods for problem solving and the results at the end. The first part is dedicated to explain and explore the chosen dataset, which includes pre-operations (cleaning and wrangling). The second part shows the machine learning classical steps: preparing data, splitting data in training, selecting a model and then feeding with data. The third and last part shows the results and final remarks.
 
-## Table of Contents
-1.	Introduction
-2.	Problem Statement
-3.	Case Study: Severstal
-4.	Objectives
-5.	EDA
-6.	Visualizing Masks
-7.	Classification
-8.	Results
-9.	Final Remarks
-10.	References
+## Overview
 
 ## Architecture
 
