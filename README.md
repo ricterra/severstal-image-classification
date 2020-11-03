@@ -5,11 +5,15 @@ Inside this document you will find a capstone project for the final project of M
 
 ## Overview
 
+The classification system proposed in this project consists of 2 step classification: (i) first step is a binary classification to predict if an image has a defect or not; (ii) second part is a multiclass classification to predict which class is the most probable.the figure below shows a diagram for the classification strategy in this work and a sample of binary mask.
+
 ![alt text](https://github.com/ricterra/severstal-image-classification/blob/main/photos/schematic.png?raw=true)
+
+![alt text](https://github.com/ricterra/severstal-image-classification/blob/main/photos/binary_mask.png?raw=true)
 
 ## Architecture
 
-https://github.com/ricterra/severstal-image-classification/blob/main/photos/folder.png
+![alt text](https://github.com/ricterra/severstal-image-classification/blob/main/photos/folder.png?raw=true)
     
 ## Files
 1-EDA.ipynb : This is the first notebook of this study, it is dedicated to EDA (exploratory data analysis) of Severstal data, including data cleaning.
